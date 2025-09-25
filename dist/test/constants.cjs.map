@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.cjs","sourceRoot":"","sources":["../../src/test/constants.ts"],"names":[],"mappings":";;;AAAa,QAAA,aAAa,GAAG;IAC3B,QAAQ,EAAE,uBAAuB;IACjC,aAAa,EAAE,iCAAiC;CACxC,CAAC","sourcesContent":["export const TEST_API_URLS = {\n  BASE_URL: 'https://mock-api.test',\n  PORTFOLIO_API: 'https://mock-portfolio-api.test',\n} as const;\n"]}
